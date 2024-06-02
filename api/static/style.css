@@ -25,12 +25,6 @@ header .logo {
     font-family: 'Simplifica';
 }
 
-header .navbar a {
-    color: #fff;
-    text-decoration: none;
-    margin-left: 20px;
-    font-size: 1.1em;
-}
 
 header .navbar a:hover {
           color: crimson;
