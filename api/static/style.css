@@ -187,4 +187,8 @@ footer .social-links li a:hover {
     background-image:url("/resc/bg.jpg");
   }
   
-  
+  ul{
+    display: block;
+    padding: 16px;
+    type:none;
+  }
